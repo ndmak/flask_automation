@@ -35,6 +35,7 @@ def step_impl(context, default_task_description):
 
 @then(u'Test passed')
 def step_impl(context):
+    time.sleep(1)
     context.driver.close()
     assert True, "Test passed"
     
@@ -102,7 +103,7 @@ def step_impl(context, old_todo_list_name):
         assert True, "Test passed"
     else:
         assert False, "Test failed. new_todo_name = " + new_todo_name
-
+    time.sleep(1)
     context.driver.close()
     
 
@@ -139,7 +140,7 @@ def step_impl(context, todo_item):
     else:
         context.driver.close()
         assert False, "Test failed. the todo item still exists"
-
+    time.sleep(1)
     context.driver.close()
 
 
@@ -159,6 +160,7 @@ def step_impl(context, todo_item):
 
 @then(u'the todo item "{todo_item}" is starred')
 def step_impl(context, todo_item):
+    time.sleep(1)
     context.driver.close()
     assert True, "Test passed"
 
@@ -168,21 +170,6 @@ def step_impl(context, todo_item):
 #############
 # Functions #
 #############
-def get_task_id(id):
-
-# Expected the format of id is like best_in_place_task_XXX_description, which XXX is the numeric task id we want
-# this function will split the string into a list
-# then it will looking into the elements in the list
-# if any element can be converted to int then return the value
-
-    list_of_id = id.split("_")
-
-    for i in range(len(list_of_id)):
-        try:
-            if isinstance(int(list_of_id[i]), int) == True:
-                return list_of_id[i]
-        except:
-            continue
 
 def get_task_id_by_task_name(driver, todo_item):
 

@@ -1,0 +1,176 @@
+1666737771690	geckodriver	INFO	Listening on 127.0.0.1:42167
+1666737772065	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCWgsQv"
+Gtk-Message: 22:42:52.169: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:42:52.171: Failed to load module "canberra-gtk-module"
+1666737772642	Marionette	INFO	Marionette enabled
+1666737772645	Marionette	INFO	Listening on port 37485
+Read port: 37485
+WebDriver BiDi listening on ws://127.0.0.1:60455
+1666737772763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCWgsQv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60455/devtools/browser/0277befa-c57f-4550-9227-e0095a29a1a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737776906	Marionette	INFO	Stopped listening on port 37485
+1666737777572	geckodriver	INFO	Listening on 127.0.0.1:50999
+1666737777992	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUE2hCi"
+Gtk-Message: 22:42:58.079: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:42:58.080: Failed to load module "canberra-gtk-module"
+1666737778508	Marionette	INFO	Marionette enabled
+1666737778511	Marionette	INFO	Listening on port 46481
+WebDriver BiDi listening on ws://127.0.0.1:43845
+Read port: 46481
+1666737778687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUE2hCi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43845/devtools/browser/64edd236-f4c1-45a2-a370-1f300601cca0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737782558	Marionette	INFO	Stopped listening on port 46481
+1666737783194	geckodriver	INFO	Listening on 127.0.0.1:34497
+1666737783620	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIAwRaI"
+Gtk-Message: 22:43:03.700: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:03.701: Failed to load module "canberra-gtk-module"
+1666737784111	Marionette	INFO	Marionette enabled
+1666737784114	Marionette	INFO	Listening on port 34123
+Read port: 34123
+WebDriver BiDi listening on ws://127.0.0.1:40221
+1666737784181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIAwRaI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40221/devtools/browser/85a34201-321d-46b0-a117-b42350c5cf65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737787911	Marionette	INFO	Stopped listening on port 34123
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1666737788652	geckodriver	INFO	Listening on 127.0.0.1:38339
+1666737789036	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev2VQR8"
+Gtk-Message: 22:43:09.113: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:09.114: Failed to load module "canberra-gtk-module"
+1666737789542	Marionette	INFO	Marionette enabled
+1666737789544	Marionette	INFO	Listening on port 42457
+WebDriver BiDi listening on ws://127.0.0.1:48193
+Read port: 42457
+1666737789727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev2VQR8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48193/devtools/browser/c78cb3bf-34da-40bd-9e79-6e9fd2819729
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737793523	Marionette	INFO	Stopped listening on port 42457
+1666737794084	geckodriver	INFO	Listening on 127.0.0.1:33763
+1666737794482	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRT2by4"
+Gtk-Message: 22:43:14.565: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:14.566: Failed to load module "canberra-gtk-module"
+1666737794982	Marionette	INFO	Marionette enabled
+1666737794985	Marionette	INFO	Listening on port 43827
+WebDriver BiDi listening on ws://127.0.0.1:35767
+Read port: 43827
+1666737795174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRT2by4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35767/devtools/browser/c190770f-27b4-435f-b852-86d584e8a993
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737799281	Marionette	INFO	Stopped listening on port 43827
+1666737800008	geckodriver	INFO	Listening on 127.0.0.1:54071
+1666737800397	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyfp4Bw"
+Gtk-Message: 22:43:20.478: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:20.479: Failed to load module "canberra-gtk-module"
+1666737800906	Marionette	INFO	Marionette enabled
+1666737800909	Marionette	INFO	Listening on port 37895
+WebDriver BiDi listening on ws://127.0.0.1:53469
+Read port: 37895
+1666737801128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyfp4Bw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53469/devtools/browser/b04250ec-0143-43b8-a78d-0b1e640d422e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737805642	Marionette	INFO	Stopped listening on port 37895
+1666737806325	geckodriver	INFO	Listening on 127.0.0.1:40023
+1666737806747	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegGjoGe"
+Gtk-Message: 22:43:26.827: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:26.828: Failed to load module "canberra-gtk-module"
+1666737807267	Marionette	INFO	Marionette enabled
+1666737807269	Marionette	INFO	Listening on port 34965
+WebDriver BiDi listening on ws://127.0.0.1:40559
+Read port: 34965
+1666737807465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegGjoGe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40559/devtools/browser/32751e3d-e243-4249-b0e4-f3546f57268e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737811651	Marionette	INFO	Stopped listening on port 34965
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1666737812293	geckodriver	INFO	Listening on 127.0.0.1:39717
+1666737812701	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebcicz6"
+Gtk-Message: 22:43:32.787: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:32.787: Failed to load module "canberra-gtk-module"
+1666737813240	Marionette	INFO	Marionette enabled
+1666737813242	Marionette	INFO	Listening on port 40861
+WebDriver BiDi listening on ws://127.0.0.1:56725
+Read port: 40861
+1666737813422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebcicz6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56725/devtools/browser/83c4964f-1d66-4229-a528-ef0996e4b0c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737817678	Marionette	INFO	Stopped listening on port 40861
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1666737818415	geckodriver	INFO	Listening on 127.0.0.1:37865
+1666737818830	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee4LQk4"
+Gtk-Message: 22:43:38.906: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:38.907: Failed to load module "canberra-gtk-module"
+1666737819349	Marionette	INFO	Marionette enabled
+1666737819351	Marionette	INFO	Listening on port 38255
+WebDriver BiDi listening on ws://127.0.0.1:41047
+Read port: 38255
+1666737819542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee4LQk4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41047/devtools/browser/09378074-f42c-4e95-b8c4-26f746c9afef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737835726	Marionette	INFO	Stopped listening on port 38255
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1666737836342	geckodriver	INFO	Listening on 127.0.0.1:43625
+1666737836754	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezVGEja"
+Gtk-Message: 22:43:56.829: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:43:56.830: Failed to load module "canberra-gtk-module"
+1666737837245	Marionette	INFO	Marionette enabled
+1666737837247	Marionette	INFO	Listening on port 43647
+Read port: 43647
+WebDriver BiDi listening on ws://127.0.0.1:38343
+1666737837311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezVGEja/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38343/devtools/browser/edb7bf74-1cf3-4a56-b35b-76fe4890dc78
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737853713	Marionette	INFO	Stopped listening on port 43647
+1666737854423	geckodriver	INFO	Listening on 127.0.0.1:50581
+1666737854827	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVrs4ey"
+Gtk-Message: 22:44:14.917: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:44:14.919: Failed to load module "canberra-gtk-module"
+1666737855397	Marionette	INFO	Marionette enabled
+1666737855400	Marionette	INFO	Listening on port 44561
+Read port: 44561
+WebDriver BiDi listening on ws://127.0.0.1:35465
+1666737855498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVrs4ey/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35465/devtools/browser/6ae32646-1e24-489a-a9d7-988d28b235e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://flask.io."
+1666737872233	Marionette	INFO	Stopped listening on port 44561

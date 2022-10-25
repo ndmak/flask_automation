@@ -6,9 +6,11 @@ My scripts are to automate UI testing on website https://flask.io/bClNDCUhkKoX, 
 
 This project applies the following technologies:
 
-Cucumber for BDD test cases
-Python + Selenium for test steps
-Behave for bridging the test cases and python scripts
+- Cucumber for BDD test cases
+- Python + Selenium for test steps
+- Behave for bridging the test cases and python scripts
+
+
 Now there are mainly 2 files involved:
 
 flask_todo_automation/features/flask.feature is the feature file that shows my test cases work on a todo web applcation
